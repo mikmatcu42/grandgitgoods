@@ -1,0 +1,3 @@
+We used our RRC2 which provided our altitude via beeps, verified at launch site. 4 beeps, 9 beeps, 2 beeps, 1 beep 
+
+4921 ft.

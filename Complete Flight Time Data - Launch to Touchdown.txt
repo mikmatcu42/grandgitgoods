@@ -1,0 +1,863 @@
+------Data Entry Number 3120------
+3846733 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+1.60
+Pressure: 
+98.13 kPA | 14.23 psi
+ 
+------Data Entry Number 3121------
+3847965 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+1.54
+Pressure: 
+98.27 kPA | 14.21 psi
+ 
+------Data Entry Number 3122------
+3849196 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+1.51
+Pressure: 
+98.13 kPA | 14.25 psi
+ 
+------Data Entry Number 3123------
+3850432 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+1.51
+Pressure: 
+98.27 kPA | 14.25 psi
+ 
+------Data Entry Number 3124------
+3851663 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+1.44
+Pressure: 
+98.13 kPA | 14.21 psi
+ 
+------Data Entry Number 3125------
+3852899 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+3.40
+Pressure: 
+98.13 kPA | 14.23 psi
+ 
+------Data Entry Number 3126------
+3854131 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+3.50
+Pressure: 
+97.25 kPA | 14.08 psi
+ 
+------Data Entry Number 3127------
+3855362 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+3.16
+Pressure: 
+95.06 kPA | 13.83 psi
+ 
+------Data Entry Number 3128------
+3856598 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+1.65
+Pressure: 
+93.01 kPA | 13.48 psi
+ 
+------Data Entry Number 3129------
+3857829 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+1.97
+Pressure: 
+90.63 kPA | 13.11 psi
+ 
+------Data Entry Number 3130------
+3859063 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+2.00
+Pressure: 
+88.58 kPA | 12.85 psi
+ 
+------Data Entry Number 3131------
+3860294 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+2.46
+Pressure: 
+86.83 kPA | 12.58 psi
+ 
+------Data Entry Number 3132------
+3861525 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+2.32
+Pressure: 
+85.37 kPA | 12.38 psi
+ 
+------Data Entry Number 3133------
+3862761 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+2.47
+Pressure: 
+84.25 kPA | 12.23 psi
+ 
+------Data Entry Number 3134------
+3863995 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+2.40
+Pressure: 
+83.52 kPA | 12.08 psi
+ 
+------Data Entry Number 3135------
+3865231 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+2.56
+Pressure: 
+82.49 kPA | 11.96 psi
+ 
+------Data Entry Number 3136------
+3866462 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+2.73
+Pressure: 
+82.05 kPA | 11.93 psi
+ 
+------Data Entry Number 3137------
+3867694 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+1.74
+Pressure: 
+81.76 kPA | 11.85 psi
+ 
+------Data Entry Number 3138------
+3868930 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+3.10
+Pressure: 
+81.57 kPA | 11.83 psi
+ 
+------Data Entry Number 3139------
+3870161 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+3.20
+Pressure: 
+81.76 kPA | 11.85 psi
+ 
+------Data Entry Number 3140------
+3871397 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+3.65
+Pressure: 
+81.67 kPA | 11.87 psi
+ 
+------Data Entry Number 3141------
+3872629 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.05
+Pressure: 
+81.96 kPA | 11.90 psi
+ 
+------Data Entry Number 3142------
+3873860 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.28
+Pressure: 
+82.15 kPA | 11.92 psi
+ 
+------Data Entry Number 3143------
+3875096 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+82.30 kPA | 11.96 psi
+ 
+------Data Entry Number 3144------
+3876327 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.97
+Pressure: 
+82.74 kPA | 11.99 psi
+ 
+------Data Entry Number 3145------
+3877559 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.98
+Pressure: 
+83.03 kPA | 12.04 psi
+ 
+------Data Entry Number 3146------
+3878795 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.96
+Pressure: 
+83.52 kPA | 12.07 psi
+ 
+------Data Entry Number 3147------
+3880027 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.96
+Pressure: 
+83.66 kPA | 12.13 psi
+ 
+------Data Entry Number 3148------
+3881263 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.95
+Pressure: 
+83.81 kPA | 12.13 psi
+ 
+------Data Entry Number 3149------
+3882494 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+83.91 kPA | 12.18 psi
+ 
+------Data Entry Number 3150------
+3883725 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.97
+Pressure: 
+84.39 kPA | 12.25 psi
+ 
+------Data Entry Number 3151------
+3884961 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+84.64 kPA | 12.25 psi
+ 
+------Data Entry Number 3152------
+3886192 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.98
+Pressure: 
+84.78 kPA | 12.30 psi
+ 
+------Data Entry Number 3153------
+3887428 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+84.93 kPA | 12.32 psi
+ 
+------Data Entry Number 3154------
+3888659 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+85.22 kPA | 12.36 psi
+ 
+------Data Entry Number 3155------
+3889891 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+85.32 kPA | 12.39 psi
+ 
+------Data Entry Number 3156------
+3891127 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.98
+Pressure: 
+85.47 kPA | 12.42 psi
+ 
+------Data Entry Number 3157------
+3892358 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+85.95 kPA | 12.45 psi
+ 
+------Data Entry Number 3158------
+3893595 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+85.95 kPA | 12.49 psi
+ 
+------Data Entry Number 3159------
+3894827 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+86.24 kPA | 12.51 psi
+ 
+------Data Entry Number 3160------
+3896057 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+86.54 kPA | 12.55 psi
+ 
+------Data Entry Number 3161------
+3897298 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+86.78 kPA | 12.60 psi
+ 
+------Data Entry Number 3162------
+3898529 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+86.92 kPA | 12.61 psi
+ 
+------Data Entry Number 3163------
+3899765 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.98
+Pressure: 
+87.07 kPA | 12.64 psi
+ 
+------Data Entry Number 3164------
+3900996 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+87.56 kPA | 12.69 psi
+ 
+------Data Entry Number 3165------
+3902228 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+87.70 kPA | 12.72 psi
+ 
+------Data Entry Number 3166------
+3903464 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+87.90 kPA | 12.76 psi
+ 
+------Data Entry Number 3167------
+3904696 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+88.29 kPA | 12.79 psi
+ 
+------Data Entry Number 3168------
+3905933 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+88.29 kPA | 12.80 psi
+ 
+------Data Entry Number 3169------
+3907165 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+4.89
+Pressure: 
+88.53 kPA | 12.89 psi
+ 
+------Data Entry Number 3170------
+3908396 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.98
+Pressure: 
+88.97 kPA | 12.88 psi
+ 
+------Data Entry Number 3171------
+3909632 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+89.16 kPA | 12.95 psi
+ 
+------Data Entry Number 3172------
+3910862 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.94
+Pressure: 
+89.46 kPA | 12.95 psi
+ 
+------Data Entry Number 3173------
+3912104 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+89.51 kPA | 12.97 psi
+ 
+------Data Entry Number 3174------
+3913335 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+89.79 kPA | 13.01 psi
+ 
+------Data Entry Number 3175------
+3914566 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.94
+Pressure: 
+89.99 kPA | 13.05 psi
+ 
+------Data Entry Number 3176------
+3915803 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.31
+Pressure: 
+89.94 kPA | 13.05 psi
+ 
+------Data Entry Number 3177------
+3917034 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.84
+Pressure: 
+90.28 kPA | 13.12 psi
+ 
+------Data Entry Number 3178------
+3918271 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+90.43 kPA | 13.14 psi
+ 
+------Data Entry Number 3179------
+3919503 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.89
+Pressure: 
+90.72 kPA | 13.17 psi
+ 
+------Data Entry Number 3180------
+3920734 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.81
+Pressure: 
+90.96 kPA | 13.21 psi
+ 
+------Data Entry Number 3181------
+3921970 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+91.40 kPA | 13.24 psi
+ 
+------Data Entry Number 3182------
+3923201 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.18
+Pressure: 
+91.45 kPA | 13.26 psi
+ 
+------Data Entry Number 3183------
+3924432 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.52
+Pressure: 
+91.55 kPA | 13.32 psi
+ 
+------Data Entry Number 3184------
+3925668 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.82
+Pressure: 
+92.18 kPA | 13.36 psi
+ 
+------Data Entry Number 3185------
+3926900 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.84
+Pressure: 
+92.22 kPA | 13.38 psi
+ 
+------Data Entry Number 3186------
+3928142 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+92.62 kPA | 13.43 psi
+ 
+------Data Entry Number 3187------
+3929374 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+92.86 kPA | 13.47 psi
+ 
+------Data Entry Number 3188------
+3930605 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.77
+Pressure: 
+93.10 kPA | 13.51 psi
+ 
+------Data Entry Number 3189------
+3931841 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.78
+Pressure: 
+93.44 kPA | 13.56 psi
+ 
+------Data Entry Number 3190------
+3933073 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.90
+Pressure: 
+93.79 kPA | 13.59 psi
+ 
+------Data Entry Number 3191------
+3934309 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.69
+Pressure: 
+94.03 kPA | 13.64 psi
+ 
+------Data Entry Number 3192------
+3935540 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.95
+Pressure: 
+94.32 kPA | 13.66 psi
+ 
+------Data Entry Number 3193------
+3936771 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.88
+Pressure: 
+94.52 kPA | 13.70 psi
+ 
+------Data Entry Number 3194------
+3938007 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.81
+Pressure: 
+94.56 kPA | 13.74 psi
+ 
+------Data Entry Number 3195------
+3939237 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.93
+Pressure: 
+94.85 kPA | 13.76 psi
+ 
+------Data Entry Number 3196------
+3940473 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.90
+Pressure: 
+95.14 kPA | 13.81 psi
+ 
+------Data Entry Number 3197------
+3941704 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.91
+Pressure: 
+95.29 kPA | 13.86 psi
+ 
+------Data Entry Number 3198------
+3942936 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.95
+Pressure: 
+95.78 kPA | 13.87 psi
+ 
+------Data Entry Number 3199------
+3944172 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.99
+Pressure: 
+95.92 kPA | 13.93 psi
+ 
+------Data Entry Number 3200------
+3945404 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.93
+Pressure: 
+96.36 kPA | 13.98 psi
+ 
+------Data Entry Number 3201------
+3946640 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.92
+Pressure: 
+96.31 kPA | 13.98 psi
+ 
+------Data Entry Number 3202------
+3947872 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+2.42
+Pressure: 
+96.75 kPA | 14.01 psi
+ 
+------Data Entry Number 3203------
+3949104 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.68
+Pressure: 
+96.89 kPA | 14.05 psi
+ 
+------Data Entry Number 3204------
+3950340 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+0.86
+Pressure: 
+96.94 kPA | 14.06 psi
+ 
+------Data Entry Number 3205------
+3951570 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+3.46
+Pressure: 
+97.18 kPA | 14.08 psi
+ 
+------Data Entry Number 3206------
+3952806 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+5.00
+Pressure: 
+97.24 kPA | 14.09 psi
+ 
+------Data Entry Number 3207------
+3954037 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|19.48 Degrees C|67.07 Degrees F|
+Vibration Intensity: 
+4.23
+Pressure: 
+97.47 kPA | 14.14 psi
+ 
+------Data Entry Number 3208------
+3955269 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+4.34
+Pressure: 
+97.47 kPA | 14.14 psi
+ 
+------Data Entry Number 3209------
+3956505 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+0.74
+Pressure: 
+97.62 kPA | 14.18 psi
+ 
+------Data Entry Number 3210------
+3957736 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.78
+Pressure: 
+97.86 kPA | 14.18 psi
+ 
+------Data Entry Number 3211------
+3958970 Milliseconds Since Begin
+Temperature Reading: 
+0.67 volts|18.99 Degrees C|66.19 Degrees F|
+Vibration Intensity: 
+4.14
+Pressure: 
+98.06 kPA | 14.22 psi
+ 
+------Data Entry Number 3212------
+3960208 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+0.00
+Pressure: 
+98.06 kPA | 14.21 psi
+ 
+------Data Entry Number 3213------
+3961439 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+0.00
+Pressure: 
+98.30 kPA | 14.23 psi
+ 
+------Data Entry Number 3214------
+3962675 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|20.46 Degrees C|68.83 Degrees F|
+Vibration Intensity: 
+0.61
+Pressure: 
+98.20 kPA | 14.23 psi
+ 
+------Data Entry Number 3215------
+3963906 Milliseconds Since Begin
+Temperature Reading: 
+0.68 volts|19.97 Degrees C|67.95 Degrees F|
+Vibration Intensity: 
+1.29
+Pressure: 
+98.35 kPA | 14.24 psi
